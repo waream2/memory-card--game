@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Coin Cards",
+  "name": "Memory Card Game with Popular Crypto Coins",
   "icons": [
     {
       "src": "favicon.ico",
