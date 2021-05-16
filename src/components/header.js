@@ -12,7 +12,8 @@ const Header = (props) => {
           <span class=" text-xl pr-10">
             Current Score: {props.currentScore}
           </span>
-          <span class="text-xl pl-10">High Score: {props.highScore}</span>
+          <span class="text-xl pl-10 pr-10">High Score: {props.highScore}</span>
+          <span class="text-xl pl-10">Average Score: {props.avgScore}</span>
         </div>
       </div>
     </>
